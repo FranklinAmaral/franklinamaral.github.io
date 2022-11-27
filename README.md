@@ -8,22 +8,33 @@ If you are looking for a development partner with project experience; It will be
 
 ## Programming Skills
 Laravel & PHP                       Senior
+
 Integrations                        Senior
+
 API                                 Senior
+
 Design Patterns - Solid, Strategy   Senior
+
 
 
 ## Language Skills
 English                             B2
+
 Portuguese                          Native
+
 
 
 ## Soft Skills
 Empathy                             +++
+
 Flexibility and Resilience          +++
+
 Team work                           +++
+
 Positive attitude                   ++
+
 Leadership                          +
+
 
 
 ## Contacts 
